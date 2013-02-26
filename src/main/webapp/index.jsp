@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Time Application</title>
+<title>Time Application - new!</title>
 </head>
 <body>
 <h1>Time Application - MVC</h1>
